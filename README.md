@@ -26,12 +26,12 @@ Built with a teammate for the Computer Architecture course at Lakehead Universit
 
 ## Skills
 
-**Digital design:** Verilog, VHDL, RTL design, testbenches, computer architecture
-**FPGA and tools:** Quartus Prime, Vivado, ModelSim, Questa, Intel DE10-Lite
-**Circuit design:** NGSpice, KiCAD, PCB design
-**Programming:** C, C++, Embedded C, Python
-**Embedded:** ESP32, Arduino, SPI, UART, LoRa
-**Modelling:** MATLAB, Simulink
+**Digital design:** Verilog, VHDL, RTL design, testbenches, computer architecture  
+**FPGA and tools:** Quartus Prime, Vivado, ModelSim, Questa, Intel DE10-Lite  
+**Circuit design:** NGSpice, KiCAD, PCB design  
+**Programming:** C, C++, Embedded C, Python  
+**Embedded:** ESP32, Arduino, SPI, UART, LoRa  
+**Modelling:** MATLAB, Simulink  
 
 ## Currently
 
