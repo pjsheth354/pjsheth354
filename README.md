@@ -1,26 +1,38 @@
-![MasterHead](https://images.unsplash.com/photo-1592496431160-00dee11029cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80)
-<h1 align="center">Hi 👋, I'm Priyam Sheth</h1>
-<h3 align="center">An Electronic Freak but Web Developer with Interest</h3>
-<img align="right" alt = "Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pjsheth354&label=Profile%20views&color=0e75b6&style=flat" alt="pjsheth354" /> </p>
+# Hi, I'm Priyam Sheth
 
-- 💬 Ask me about **HTML, CSS, JS, WORDPRESS, PYTHON.**
+I'm a VLSI and digital design engineer with an MSc in Electrical and Computer Engineering from Lakehead University. I design digital hardware in Verilog and prototype it on FPGAs.
 
-- 📫 How to reach me **priyamsheth354@gmail.com**
+I'm looking for **entry-level ASIC, RTL design, design verification, and FPGA roles**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/priyam-sheth-a5b6381b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyam-sheth-a5b6381b9" height="30" width="40" /></a>
-<a href="https://fb.com/priyam.sheth.58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyam.sheth.58" height="30" width="40" /></a>
-<a href="https://instagram.com/pjsheth354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pjsheth354" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@priyam237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@priyam237" height="30" width="40" /></a>
-</p>
+[Portfolio](https://pjsheth354.github.io/priyamsheth/) · [LinkedIn](https://www.linkedin.com/in/shethpriyam) · [Email](mailto:priyam.shethh@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Featured project
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pjsheth354&show_icons=true&locale=en&layout=compact" alt="pjsheth354" /></p>
+### [8-bit RISC pipelined processor](https://github.com/pjsheth354/8-bit-RISC-Pipelined-CPU)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pjsheth354&show_icons=true&locale=en" alt="pjsheth354" /></p>
+Built with a teammate for the Computer Architecture course at Lakehead University.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pjsheth354&" alt="pjsheth354" /></p>
+- Custom instruction set with three instruction formats
+- 5-stage pipeline: IF, ID, EX, MEM, WB
+- Verilog modules and a testbench, verified in ModelSim and Questa
+- Synthesized in Quartus Prime and tested on an Intel DE10-Lite FPGA
+
+## Other work
+
+- **[Plant moisture control system](https://github.com/pjsheth354/Smart-Irrigation-System):** ESP32 irrigation system with a calibrated soil moisture sensor, relay-driven pump, and an IoT web app (team of four; I built the hardware and the web app)
+- **[Temperature sensor interface PCB](https://github.com/pjsheth354/Temperature-Interface-PCB):** LM35 interface board designed in KiCAD and verified in simulation
+- **[Grid-tied inverter with voltage-oriented control](https://github.com/pjsheth354/Grid-Tied-Inverters-using-VOC-MATLAB):** MATLAB/Simulink model based on a reference design
+- **Two-stage CMOS op-amp (180 nm):** simulated and characterized in NGSpice during a summer internship (60.27 dB DC gain, 28 V/µs slew rate)
+
+## Skills
+
+**Digital design:** Verilog, VHDL, RTL design, testbenches, computer architecture
+**FPGA and tools:** Quartus Prime, Vivado, ModelSim, Questa, Intel DE10-Lite
+**Circuit design:** NGSpice, KiCAD, PCB design
+**Programming:** C, C++, Embedded C, Python
+**Embedded:** ESP32, Arduino, SPI, UART, LoRa
+**Modelling:** MATLAB, Simulink
+
+## Currently
+
+Improving my SystemVerilog and verification skills, and writing up my projects with block diagrams and simulation results.
